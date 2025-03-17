@@ -1,29 +1,11 @@
-# mykiosk
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+# 웹 기능 구현 🌐
+	•	키보드 조작 :
+	•	1번: 상품 페이지 🛍️
+	•	2번: 장바구니 페이지 🛒
+	•	3번: 결제 선택 (담긴 상품이 없거나 상품 페이지일 경우 실행 X) 💸
+	•	7번: 포장 장소 선택 📍
+	•	8번: 매장 이용 장소 선택 📍
+	•	9번: 현금 결제 💸
+	•	0번: 카드 결제 📈
+	•	/ 버튼: 검색창으로 이동 🔍
+	•	Spacebar: 요청사항 입력창으로 이동 📝
